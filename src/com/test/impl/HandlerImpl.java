@@ -6,7 +6,7 @@ public class HandlerImpl implements IHandler {
 
 	@Override
 	public void process() {
-		System.out.println("--test handlerImpl--");
+		System.out.println("--test handlerImpl--20180601 20:47");
 	}
 
 }
